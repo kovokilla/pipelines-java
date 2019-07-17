@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/kovokilla/Lab01/_apis/build/status/kovokilla.pipelines-java?branchName=master)](https://dev.azure.com/kovokilla/Lab01/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
